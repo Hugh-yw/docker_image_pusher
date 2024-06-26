@@ -6,3 +6,4 @@ istio/examples-bookinfo-reviews-v2:1.17.0
 istio/examples-bookinfo-reviews-v3:1.17.0
 istio/examples-bookinfo-productpage-v1:1.17.0
 istio/examples-bookinfo-details-v2:1.17.0
+istio/examples-bookinfo-ratings-v2:1.17.0
