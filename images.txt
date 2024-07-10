@@ -1,6 +1,1 @@
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.40.2
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.40.2
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.40.2
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.40.2
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.40.2
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.40.2
+gcr.io/google.com/cloudsdktool/cloud-sdk@sha256:27b2c22bf259d9bc1a291e99c63791ba0c27a04d2db0a43241ba0f1f20f4067f
